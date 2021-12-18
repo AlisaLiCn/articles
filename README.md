@@ -7,3 +7,4 @@
 - [2021-09-01 正则表达式优化 - 避免灾难性回溯.md](2021/2021-09-01%20正则表达式优化%20-%20避免灾难性回溯.md)
 
 ## Chrome Extension
+- [2021-04-21 Chrome Extension MV3迁移checklist.md](2021/2021-04-21%20Chrome%20Extension%20MV3迁移checklist.md)
