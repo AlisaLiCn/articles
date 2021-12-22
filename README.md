@@ -8,3 +8,4 @@
 
 ## Chrome Extension
 - [2021-04-21 Chrome Extension MV3迁移checklist.md](2021/2021-04-21%20Chrome%20Extension%20MV3迁移checklist.md)
+- [2020-03-17 Chrome扩展程序开发笔记-扩展与web页面的通信.md](2020/2020-03-17%20Chrome扩展程序开发笔记-扩展与web页面的通信.md)
